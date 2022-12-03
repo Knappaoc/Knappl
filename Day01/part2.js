@@ -14,6 +14,7 @@ for (let index = 0; index < lines.length; index++) {
   }
 }
 
+
 callories.sort(function (a, b) {
   return a - b;
 });
